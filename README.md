@@ -29,8 +29,8 @@ We aim to deliver **transparent pricing, faster pickups, and unmatched safety** 
 ## 🖌 Brand Identity
 
 - Inspired by **motion + trust.**  
-- Logo concept: <till we create it>
-- Visual System: <till we create it>
+- Logo concept: till we create it>
+- Visual System: till we create it>
 ---
 
 ## 📦 Deliverables (Current Scope)
