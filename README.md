@@ -54,7 +54,7 @@ We aim to deliver **transparent pricing, faster pickups, and unmatched safety** 
 ## 🔧 Tech & Tools
 
 - **Design**: Adobe Photoshop, Adobe Illustrator, Adobe Dimension (for packaging), Adobe Indesign.  
-- **Video Ads**: <till we create it> .  
+- **Video Ads**: till we create it> .  
 - **Project Management**: Notion .  
 
 ---
